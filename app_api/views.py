@@ -13,6 +13,4 @@ class NamelistApi(APIView):
     def post(self):
         pass
 
-#Реализовать метод POST, Delete, Put, Edit как в приложении app_crud только как API
-#Создать возможно логин пароль, метод авторизации basic autorization
 
